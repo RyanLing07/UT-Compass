@@ -1,0 +1,2050 @@
+[
+  {
+    "id": "27th-street-garage",
+    "name": "27th Street Garage",
+    "lat": 30.29129,
+    "lng": -97.738556,
+    "category": "Buildings",
+    "tags": [
+      "Parking Lots"
+    ],
+    "description": "North-side garage close to dorms and buildings near Dean Keeton."
+  },
+  {
+    "id": "AND",
+    "name": "Andrews Residence Hall",
+    "lat": 30.288222,
+    "lng": -97.739788,
+    "category": "Buildings",
+    "tags": [
+      "Dorms"
+    ],
+    "description": "One of the historic north-campus halls, small and quiet compared to Jester. In the Kins cluster."
+  },
+  {
+    "id": "ART",
+    "name": "Art Building and Museum",
+    "lat": 30.286165,
+    "lng": -97.733061,
+    "category": "Buildings",
+    "tags": [
+      "Classrooms",
+      "Performing Arts"
+    ],
+    "description": "Studio space for the art and art history department, with student work rotating through the hallways constantly. Connected to the Visual Arts Building!"
+  },
+  {
+    "id": "BAT",
+    "name": "Batts Hall",
+    "lat": 30.28481,
+    "lng": -97.738915,
+    "category": "Buildings",
+    "tags": [
+      "Classrooms"
+    ],
+    "description": "Part of the liberal arts cluster of halls!"
+  },
+  {
+    "id": "BEL",
+    "name": "L. Theo Bellmont Hall",
+    "lat": 30.283719,
+    "lng": -97.733682,
+    "category": "Buildings",
+    "tags": [
+      "Classrooms",
+      "Gym/Rec",
+      "Sports"
+    ],
+    "description": "Built into the west side of the football stadium, mixing classrooms with athletics and recreation facilities. Only note I could find for this location is that it is very difficult to find your class."
+  },
+  {
+    "id": "BEN",
+    "name": "Benedict Hall",
+    "lat": 30.283972,
+    "lng": -97.739001,
+    "category": "Buildings",
+    "tags": [
+      "Classrooms"
+    ],
+    "description": "Lots of English and rhetoric sections scheduled inside, and the rooms are on the small side. Part of the liberal arts cluster of halls!"
+  },
+  {
+    "id": "BHD",
+    "name": "Brackenridge Hall (BHD)",
+    "lat": 30.283138,
+    "lng": -97.735849,
+    "category": "Buildings",
+    "tags": [
+      "Dorms"
+    ],
+    "description": "East-side hall in the historic group near Roberts and Prather! This is where I (the guy who made UT Compass) live — say hi!"
+  },
+  {
+    "id": "BIO",
+    "name": "Biological Laboratories",
+    "lat": 30.287224,
+    "lng": -97.739759,
+    "category": "Buildings",
+    "tags": [
+      "Classrooms"
+    ],
+    "description": "An older biology Building near the center of campus, mainly just teaching labs."
+  },
+  {
+    "id": "BLD",
+    "name": "Blanton Residence Hall",
+    "lat": 30.288646,
+    "lng": -97.73938,
+    "category": "Buildings",
+    "tags": [
+      "Dorms"
+    ],
+    "description": "A smaller north-campus residence hall in the cluster near Kinsolving. This is not the Blanton Art Museum… Took A LOT of time to find that out."
+  },
+  {
+    "id": "brazos-garage",
+    "name": "Brazos Garage (BRG)",
+    "lat": 30.281298,
+    "lng": -97.736421,
+    "category": "Buildings",
+    "tags": [
+      "Parking Lots"
+    ],
+    "description": "THE garage, perfect spot for parents on a tour or any students living in the Jester cluster."
+  },
+  {
+    "id": "BTL",
+    "name": "Battle Hall",
+    "lat": 30.285417,
+    "lng": -97.740314,
+    "category": "Buildings",
+    "tags": [
+      "Libraries",
+      "Study Lounge"
+    ],
+    "description": "One of the oldest and prettiest buildings on campus, holding the Architecture and Planning Library. A personal favorite study spot, with its wood architecture."
+  },
+  {
+    "id": "BUR",
+    "name": "Burdine Hall",
+    "lat": 30.288871,
+    "lng": -97.738339,
+    "category": "Buildings",
+    "tags": [
+      "Classrooms"
+    ],
+    "description": "A boxy tower on the north end that holds a lot of government and sociology courses. I heard that it has the 3rd biggest lecture hall! (Please don't quote me on that.)"
+  },
+  {
+    "id": "CAL",
+    "name": "Calhoun Hall",
+    "lat": 30.284494,
+    "lng": -97.740176,
+    "category": "Buildings",
+    "tags": [
+      "Classrooms"
+    ],
+    "description": "A smaller classroom building near the center of campus, mostly seminar-sized rooms. Hard to find! Be on the lookout!"
+  },
+  {
+    "id": "CBA",
+    "name": "McCombs School of Business (CBA)",
+    "lat": 30.284231,
+    "lng": -97.737859,
+    "category": "Buildings",
+    "tags": [
+      "Classrooms"
+    ],
+    "description": "The older half of the business school complex, connected to the graduate building next door."
+  },
+  {
+    "id": "CMA",
+    "name": "Jesse H. Jones Communication Center A",
+    "lat": 30.289424,
+    "lng": -97.74071,
+    "category": "Buildings",
+    "tags": [
+      "Classrooms",
+      "Computer Lab"
+    ],
+    "description": "Moody College of Communication building with studios, edit bays, and a large lecture hall. And yes, CMA and CMB are separate buildings!!"
+  },
+  {
+    "id": "CMB",
+    "name": "Jesse H. Jones Communication Center B",
+    "lat": 30.289215,
+    "lng": -97.74115,
+    "category": "Buildings",
+    "tags": [
+      "Classrooms"
+    ],
+    "description": "The second Jones Communication building, mostly classrooms and department offices. Check whether your class says CMA or CMB before you walk in."
+  },
+  {
+    "id": "cmhc",
+    "name": "Counseling and Mental Health Center",
+    "lat": 30.28983,
+    "lng": -97.738508,
+    "category": "Buildings",
+    "tags": [
+      "Health"
+    ],
+    "description": "Counseling services, in the Student Services Building. They run a 24/7 crisis line separately from the walk-in hours, which is worth knowing before you need it. As someone that's used the services, please know they are more help than you can imagine."
+  },
+  {
+    "id": "COM",
+    "name": "Computation Center",
+    "lat": 30.285643,
+    "lng": -97.73853,
+    "category": "Buildings",
+    "tags": [
+      "Computer Lab",
+      "Classrooms"
+    ],
+    "description": "Houses IT and computing services."
+  },
+  {
+    "id": "conference-center-garage",
+    "name": "Conference Center Garage (CCG)",
+    "lat": 30.282317,
+    "lng": -97.740322,
+    "category": "Buildings",
+    "tags": [
+      "Parking Lots"
+    ],
+    "description": "Under the AT&T Conference Center on the southwest corner, and the listed visitor parking for the PCL."
+  },
+  {
+    "id": "CPE",
+    "name": "Chemical and Petroleum Engineering Building",
+    "lat": 30.290259,
+    "lng": -97.736133,
+    "category": "Buildings",
+    "tags": [
+      "Classrooms"
+    ],
+    "description": "Part of the engineering cluster on the east side, holding chemical engineering labs and classrooms."
+  },
+  {
+    "id": "CRD",
+    "name": "Carothers Residence Hall",
+    "lat": 30.28869,
+    "lng": -97.740052,
+    "category": "Buildings",
+    "tags": [
+      "Dorms"
+    ],
+    "description": "North-campus hall near Kinsolving, small and quiet. As close to kin's Dining as you can get (other than kin's of course)."
+  },
+  {
+    "id": "CRE",
+    "name": "Creekside Residence Hall",
+    "lat": 30.288574,
+    "lng": -97.733395,
+    "category": "Buildings",
+    "tags": [
+      "Dorms"
+    ],
+    "description": "Residence hall on the east side near Waller Creek, as the name suggests. Newer than all the historic halls around it!"
+  },
+  {
+    "id": "DFA",
+    "name": "Doty Fine Arts Building",
+    "lat": 30.285858,
+    "lng": -97.731794,
+    "category": "Buildings",
+    "tags": [
+      "Performing Arts",
+      "Classrooms"
+    ],
+    "description": "Fine arts classrooms and offices on the east side of campus near the performing arts complex. Named after the founding dean of the UT College of Fine Arts!"
+  },
+  {
+    "id": "DUR",
+    "name": "Almetris Duren Residence Hall",
+    "lat": 30.291372,
+    "lng": -97.740466,
+    "category": "Buildings",
+    "tags": [
+      "Dorms"
+    ],
+    "description": "One of the newer residence halls on the west side, with suite-style rooms. Close to the Drag, which is either the main feature or the main deterrent."
+  },
+  {
+    "id": "ECJ",
+    "name": "Ernest Cockrell Jr. Hall",
+    "lat": 30.288999,
+    "lng": -97.735554,
+    "category": "Buildings",
+    "tags": [
+      "Classrooms"
+    ],
+    "description": "Core Cockrell School of Engineering building, connected by walkways to the rest of the engineering cluster. Watch the codes on the walls, because suddenly you're often in another building."
+  },
+  {
+    "id": "EER",
+    "name": "Engineering Education and Research Center",
+    "lat": 30.288258,
+    "lng": -97.735345,
+    "category": "Buildings",
+    "tags": [
+      "Classrooms",
+      "Study Lounge"
+    ],
+    "description": "The newest engineering building, and easily one of the nicest spaces on campus to work in. Genuinely one of the most beautiful places on campus in my opinion."
+  },
+  {
+    "id": "ETC",
+    "name": "Engineering Teaching Center II",
+    "lat": 30.289935,
+    "lng": -97.735377,
+    "category": "Buildings",
+    "tags": [
+      "Classrooms",
+      "Computer Lab"
+    ],
+    "description": "Classrooms and teaching labs for the engineering school, right in the middle of the engineering block."
+  },
+  {
+    "id": "FAC",
+    "name": "Flawn Academic Center",
+    "lat": 30.286299,
+    "lng": -97.740371,
+    "category": "Buildings",
+    "tags": [
+      "Libraries",
+      "Study Lounge",
+      "Computer Lab"
+    ],
+    "description": "Central building with computers, group study space, and academic support services under one roof. Great middle ground when the PCL is too quiet and the Union is too loud."
+  },
+  {
+    "id": "GAR",
+    "name": "Garrison Hall",
+    "lat": 30.285139,
+    "lng": -97.738492,
+    "category": "Buildings",
+    "tags": [
+      "Classrooms"
+    ],
+    "description": "A South Mall classroom building that mostly hosts history courses. The only note I could find is that one student thinks the cattle brands in the stonework is pretty neat!"
+  },
+  {
+    "id": "GDC",
+    "name": "Gates Dell Complex",
+    "lat": 30.286271,
+    "lng": -97.736505,
+    "category": "Buildings",
+    "tags": [
+      "Classrooms",
+      "Computer Lab"
+    ],
+    "description": "Home base for Computer Science, split into a north and south tower joined by a glassy atrium full of couches I've personally slept on. Home of Computer Science!"
+  },
+  {
+    "id": "GOL",
+    "name": "Goldsmith Hall",
+    "lat": 30.285303,
+    "lng": -97.741156,
+    "category": "Buildings",
+    "tags": [
+      "Classrooms"
+    ],
+    "description": "The School of Architecture's main home, with studios that stay lit late into the night."
+  },
+  {
+    "id": "GRE",
+    "name": "Gregory Gymnasium",
+    "lat": 30.283998,
+    "lng": -97.736399,
+    "category": "Buildings",
+    "tags": [
+      "Gym/Rec",
+      "Sports"
+    ],
+    "description": "THE big rec gym — weights, courts, indoor track, and the volleyball arena all in one 1930s building with a modern annex bolted on. This is one of the best sport facilities, period."
+  },
+  {
+    "id": "GSB",
+    "name": "Graduate School of Business Building",
+    "lat": 30.284182,
+    "lng": -97.738335,
+    "category": "Buildings",
+    "tags": [
+      "Classrooms",
+      "Study Lounge"
+    ],
+    "description": "Shares a footprint and a lot of hallways with CBA, so the two read as one building once you're inside. Quiet corners on the upper floors are good for solo work between classes."
+  },
+  {
+    "id": "JES",
+    "name": "Jester Center",
+    "lat": 30.282879,
+    "lng": -97.736812,
+    "category": "Buildings",
+    "tags": [
+      "Dorms",
+      "Dining Hall",
+      "Study Lounge"
+    ],
+    "description": "THE largest dorm complex on campus, big enough that it has its own dining hall, convenience store, and 24-hour study lounge. Jester West and Jester East are two towers sharing one base, and the room numbering takes a week to learn. (Jester survivor.)"
+  },
+  {
+    "id": "JES-EAST",
+    "name": "Jester East Residence Hall",
+    "lat": 30.282371,
+    "lng": -97.735707,
+    "category": "Buildings",
+    "tags": [
+      "Dorms"
+    ],
+    "description": "The east tower of Jester Center, slightly smaller and quieter than Jester West. Everything is basically the same as west, don’t be fooled its basically Jester West part two."
+  },
+  {
+    "id": "JES-WEST",
+    "name": "Jester West Residence Hall",
+    "lat": 30.282152,
+    "lng": -97.736821,
+    "category": "Buildings",
+    "tags": [
+      "Dorms"
+    ],
+    "description": "THE largest hall. Sits across from Gregory Gym and the PCL, with the dining halls and shops downstairs. I have sung karaoke on the first floor and lost many hours studying and losing at ping pong downstairs."
+  },
+  {
+    "id": "JGB",
+    "name": "Jackson Geological Sciences Building",
+    "lat": 30.285902,
+    "lng": -97.735715,
+    "category": "Buildings",
+    "tags": [
+      "Classrooms"
+    ],
+    "description": "Where the Jackson School of Geosciences lives, with rock and fossil displays scattered through the halls. Worth a slow walk through even if you're not taking anything here, I think its super neat!"
+  },
+  {
+    "id": "JON",
+    "name": "Jones Hall",
+    "lat": 30.288623,
+    "lng": -97.731651,
+    "category": "Buildings",
+    "tags": [
+      "Classrooms"
+    ],
+    "description": "Part of the School of Law complex on the northeast corner of campus."
+  },
+  {
+    "id": "KIN",
+    "name": "Kinsolving Residence Hall",
+    "lat": 30.290386,
+    "lng": -97.739637,
+    "category": "Buildings",
+    "tags": [
+      "Dorms",
+      "Dining Hall"
+    ],
+    "description": "The all-female resident hall! Contains a shop and dining hall that (anecdotally) blows Jester's out of the water."
+  },
+  {
+    "id": "LLA",
+    "name": "Littlefield Residence Hall",
+    "lat": 30.289334,
+    "lng": -97.739728,
+    "category": "Buildings",
+    "tags": [
+      "Dorms"
+    ],
+    "description": "One of the oldest residence halls on campus, on the north side."
+  },
+  {
+    "id": "MAI",
+    "name": "Main Building (The Tower)",
+    "lat": 30.286017,
+    "lng": -97.739386,
+    "category": "Buildings",
+    "tags": [
+      "Landmarks",
+      "Gotta See It"
+    ],
+    "description": "I feel it needs little to no introduction... The Tower is the thing on every UT postcard, and it turns burnt orange when something goes right for the university. Administrative offices fill most of it, but the observation deck can be reserved for a trip up top."
+  },
+  {
+    "id": "MEZ",
+    "name": "Mezes Hall",
+    "lat": 30.284386,
+    "lng": -97.738883,
+    "category": "Buildings",
+    "tags": [
+      "Classrooms"
+    ],
+    "description": "One of the limestone-and-red-tile buildings ringing the South Mall, full of liberal arts classrooms."
+  },
+  {
+    "id": "MHD",
+    "name": "Moore-Hill Residence Hall",
+    "lat": 30.283627,
+    "lng": -97.735344,
+    "category": "Buildings",
+    "tags": [
+      "Dorms"
+    ],
+    "description": "An older hall on the east side that was originally two separate dorms joined together!"
+  },
+  {
+    "id": "MRH",
+    "name": "Music Building and Recital Hall",
+    "lat": 30.2873,
+    "lng": -97.730977,
+    "category": "Buildings",
+    "tags": [
+      "Performing Arts",
+      "Classrooms"
+    ],
+    "description": "Butler School of Music practice rooms, plus Bates Recital Hall for performances. Free student recitals happen here constantly and almost nobody outside the music school knows about them. I didn’t even know!"
+  },
+  {
+    "id": "NHB",
+    "name": "Norman Hackerman Building",
+    "lat": 30.287639,
+    "lng": -97.738021,
+    "category": "Buildings",
+    "tags": [
+      "Classrooms"
+    ],
+    "description": "One of the newer science buildings, with research labs stacked above a set of ground-floor lecture rooms."
+  },
+  {
+    "id": "PAI",
+    "name": "Painter Hall",
+    "lat": 30.287159,
+    "lng": -97.738924,
+    "category": "Buildings",
+    "tags": [
+      "Classrooms"
+    ],
+    "description": "An older science building near the center of campus with a small astronomy dome on the roof, you should go take a look!"
+  },
+  {
+    "id": "PAR",
+    "name": "Parlin Hall",
+    "lat": 30.284911,
+    "lng": -97.740106,
+    "category": "Buildings",
+    "tags": [
+      "Classrooms"
+    ],
+    "description": "Home to the English department. Part of the liberal arts cluster of halls!"
+  },
+  {
+    "id": "PAT",
+    "name": "J.T. Patterson Labs Building",
+    "lat": 30.287992,
+    "lng": -97.736427,
+    "category": "Buildings",
+    "tags": [
+      "Classrooms"
+    ],
+    "description": "Biology teaching labs. Mostly lab sections rather than lectures, so check your room number carefully."
+  },
+  {
+    "id": "PCL",
+    "name": "Perry-Castañeda Library",
+    "lat": 30.282773,
+    "lng": -97.738194,
+    "category": "Buildings",
+    "tags": [
+      "Libraries",
+      "Study Lounge",
+      "24-Hour"
+    ],
+    "description": "This truly feels like a second home, I have cried, laughed, watched movies, and studied, and that’s all even before you get to the library part! The main library, six floors that get quieter the higher you climb, and open around the clock five days a week during term."
+  },
+  {
+    "id": "PHD",
+    "name": "Prather Residence Hall",
+    "lat": 30.282395,
+    "lng": -97.735093,
+    "category": "Buildings",
+    "tags": [
+      "Dorms"
+    ],
+    "description": "East-side hall in the older cluster near the stadium, alongside Moore-Hill and Roberts."
+  },
+  {
+    "id": "PMA",
+    "name": "Physics, Math and Astronomy Building (Astronomy Building)",
+    "lat": 30.288845,
+    "lng": -97.736094,
+    "category": "Buildings",
+    "tags": [
+      "Classrooms"
+    ],
+    "description": "The tall tower on the northeast side, renamed from Robert Lee Moore Hall a few years back."
+  },
+  {
+    "id": "POB",
+    "name": "Peter O'Donnell Jr. Building",
+    "lat": 30.286839,
+    "lng": -97.736556,
+    "category": "Buildings",
+    "tags": [
+      "Classrooms"
+    ],
+    "description": "The 2nd half of the GDC, sitting right next to the Gates Dell Complex! A handful of upper-division courses meet here."
+  },
+  {
+    "id": "RHD",
+    "name": "Roberts Residence Hall",
+    "lat": 30.28305,
+    "lng": -97.735126,
+    "category": "Buildings",
+    "tags": [
+      "Dorms"
+    ],
+    "description": "Small east-side residence hall next to Prather. Quieter than most big halls."
+  },
+  {
+    "id": "RLP",
+    "name": "Robert L. Patton Hall (RLP)",
+    "lat": 30.284869,
+    "lng": -97.735514,
+    "category": "Buildings",
+    "tags": [
+      "Classrooms"
+    ],
+    "description": "The main College of Liberal Arts building on the east side, with lecture halls, department offices, and a lot of open seating with outlets."
+  },
+  {
+    "id": "RRH",
+    "name": "Robert B. Rowling Hall",
+    "lat": 30.282212,
+    "lng": -97.741461,
+    "category": "Buildings",
+    "tags": [
+      "Classrooms",
+      "Study Lounge"
+    ],
+    "description": "The modern glass business building on the west edge of campus, mostly graduate programs."
+  },
+  {
+    "id": "RSC",
+    "name": "Recreational Sports Center",
+    "lat": 30.281474,
+    "lng": -97.732356,
+    "category": "Buildings",
+    "tags": [
+      "Gym/Rec",
+      "Sports"
+    ],
+    "description": "The second main rec facility, usually less packed than Gregory at peak hours. Courts, weights, and intramural space."
+  },
+  {
+    "id": "san-jacinto-garage",
+    "name": "San Jacinto Garage (SJG)",
+    "lat": 30.287744,
+    "lng": -97.732928,
+    "category": "Buildings",
+    "tags": [
+      "Parking Lots"
+    ],
+    "description": "Large garage on the east side, closest visitor parking for the GDC and the engineering cluster. Exit lines after events are genuinely bad, one time I spent 45 minutes trying to leave."
+  },
+  {
+    "id": "SEA",
+    "name": "Sarah M. and Charles E. Seay Building",
+    "lat": 30.289823,
+    "lng": -97.737128,
+    "category": "Buildings",
+    "tags": [
+      "Classrooms"
+    ],
+    "description": "Home of the psychology department! on the east side near the education buildings."
+  },
+  {
+    "id": "SJH",
+    "name": "San Jacinto Residence Hall",
+    "lat": 30.282347,
+    "lng": -97.734405,
+    "category": "Buildings",
+    "tags": [
+      "Dorms"
+    ],
+    "description": "East-side dorm near the stadium and the San Jacinto corridor, popular for its location and newer rooms. Near the CS and Engineering hubs."
+  },
+  {
+    "id": "SRH",
+    "name": "Sid Richardson Hall",
+    "lat": 30.28499,
+    "lng": -97.728866,
+    "category": "Buildings",
+    "tags": [
+      "Libraries",
+      "Classrooms"
+    ],
+    "description": "A long low building east of the stadium holding the Benson Latin American Collection and several research centers."
+  },
+  {
+    "id": "SSB",
+    "name": "Student Services Building",
+    "lat": 30.289956,
+    "lng": -97.738328,
+    "category": "Buildings",
+    "tags": [
+      "Health",
+      "Career Services"
+    ],
+    "description": "The building on Dean Keeton that holds most of the services you'll actually need at some point — health, counseling, career advising, and student support offices. You should know this place before you need it."
+  },
+  {
+    "id": "SZB",
+    "name": "George I. Sánchez Building",
+    "lat": 30.281685,
+    "lng": -97.738765,
+    "category": "Buildings",
+    "tags": [
+      "Classrooms"
+    ],
+    "description": "The College of Education building on the east side of campus near the stadium!"
+  },
+  {
+    "id": "TNH",
+    "name": "Townes Hall",
+    "lat": 30.288599,
+    "lng": -97.731006,
+    "category": "Buildings",
+    "tags": [
+      "Classrooms",
+      "Libraries"
+    ],
+    "description": "The School of Law's main building on the northeast corner of campus, with the Tarlton Law Library attached. The building's pretty neat!"
+  },
+  {
+    "id": "trinity-garage",
+    "name": "Trinity Garage (TRG)",
+    "lat": 30.279012,
+    "lng": -97.733777,
+    "category": "Buildings",
+    "tags": [
+      "Parking Lots"
+    ],
+    "description": "Southeast garage, closest option for the Moody Center and the Blanton. Event pricing spikes hard and the exit backs up badly afterward."
+  },
+  {
+    "id": "uhs",
+    "name": "University Health Services",
+    "lat": 30.289796,
+    "lng": -97.738523,
+    "category": "Buildings",
+    "tags": [
+      "Health"
+    ],
+    "description": "The campus clinic inside the Student Services Building, covering general medicine, urgent care, immunizations, and pharmacy. Appointments are strongly preferred. Some reviewers report being turned away for walk-ins."
+  },
+  {
+    "id": "UTA",
+    "name": "UT Administration Building",
+    "lat": 30.27932,
+    "lng": -97.74284,
+    "category": "Buildings",
+    "tags": [
+      "Career Services"
+    ],
+    "description": "Administrative offices on Guadalupe at the southwest side."
+  },
+  {
+    "id": "UTC",
+    "name": "University Teaching Center",
+    "lat": 30.283033,
+    "lng": -97.738841,
+    "category": "Buildings",
+    "tags": [
+      "Classrooms"
+    ],
+    "description": "A dense block of lecture halls right next to the PCL, I have seen many cry leaving after finals or exams… But you've got this!"
+  },
+  {
+    "id": "WAG",
+    "name": "Waggener Hall",
+    "lat": 30.285112,
+    "lng": -97.737599,
+    "category": "Buildings",
+    "tags": [
+      "Classrooms"
+    ],
+    "description": "Economics and a mix of social science courses run through here. Another of the older buildings, all my research could turn up is \"its old. Creaky stairs and small elevator\"."
+  },
+  {
+    "id": "WCH",
+    "name": "Will C. Hogg Building",
+    "lat": 30.286087,
+    "lng": -97.738394,
+    "category": "Buildings",
+    "tags": [
+      "Classrooms"
+    ],
+    "description": "A small building on Inner Campus Drive near the Main Building — easy to miss!"
+  },
+  {
+    "id": "WEL",
+    "name": "Robert A. Welch Hall",
+    "lat": 30.286471,
+    "lng": -97.737709,
+    "category": "Buildings",
+    "tags": [
+      "Classrooms"
+    ],
+    "description": "The chemistry building, and a bit of a maze! the wings were added decades apart so room numbering doesn't always flow the way you'd expect. Give yourself an extra few minutes the first time you have a class here!"
+  },
+  {
+    "id": "whitis-court",
+    "name": "Whitis Court",
+    "lat": 30.290875,
+    "lng": -97.740471,
+    "category": "Buildings",
+    "tags": [
+      "Dorms"
+    ],
+    "description": "Residence hall on Whitis on the west side of campus, close to the Drag and the Union."
+  },
+  {
+    "id": "WIN",
+    "name": "F. Loren Winship Drama Building",
+    "lat": 30.285893,
+    "lng": -97.734461,
+    "category": "Buildings",
+    "tags": [
+      "Performing Arts",
+      "Event Venue"
+    ],
+    "description": "Theatre and dance department home, with rehearsal spaces and a couple of performance venues inside. Student productions here are cheap and they are EXTREMELY good."
+  },
+  {
+    "id": "WWH",
+    "name": "Walter Webb Hall",
+    "lat": 30.289324,
+    "lng": -97.741847,
+    "category": "Buildings",
+    "tags": [
+      "Classrooms"
+    ],
+    "description": "A small building on the northwest edge of campus. It's housed the faculty center and other things over the years."
+  },
+  {
+    "id": "amys-guadalupe",
+    "name": "Amy's Ice Creams (Guadalupe)",
+    "lat": 30.30133,
+    "lng": -97.739303,
+    "category": "Food",
+    "tags": [
+      "Sweet-Treats"
+    ],
+    "description": "Local ice cream chain where the staff mix your toppings in on a cold slab and sometimes throw the scoop at each other. Must see experience… or so I have been told."
+  },
+  {
+    "id": "baod-up",
+    "name": "Bao'd Up",
+    "lat": 30.287091,
+    "lng": -97.744917,
+    "category": "Food",
+    "tags": [
+      "Fast Food"
+    ],
+    "description": "Steamed bao and Asian street food on Rio Grande in West Campus. Small menu, quick counter service!"
+  },
+  {
+    "id": "bennu-coffee",
+    "name": "Bennu Coffee (E MLK)",
+    "lat": 30.279812,
+    "lng": -97.719622,
+    "category": "Food",
+    "tags": [
+      "Coffee",
+      "24-Hour"
+    ],
+    "description": "Genuinely 24-hour coffee shop east of campus, and a serious work environment rather than a social one. About a mile and a half out, so it's a bus ride or a long walk, but nothing closer is open at 3am — which is exactly why it's part of this list."
+  },
+  {
+    "id": "cabo-bobs",
+    "name": "Cabo Bob's Burritos",
+    "lat": 30.295711,
+    "lng": -97.744213,
+    "category": "Food",
+    "tags": [
+      "Fast Food"
+    ],
+    "description": "West Campus burrito spot where they press the tortillas fresh in front of you, which is most of why the line moves slower than you'd like. But the portions and taste more than make up for it."
+  },
+  {
+    "id": "canes-mlk",
+    "name": "Raising Cane's (MLK)",
+    "lat": 30.281482,
+    "lng": -97.742504,
+    "category": "Food",
+    "tags": [
+      "Fast Food",
+      "24-Hour"
+    ],
+    "description": "Chicken fingers and sauce, open until the early morning, it’s THE go-to and anyone I know can eat a Caniac combo if the situation arises."
+  },
+  {
+    "id": "cava-guad",
+    "name": "CAVA (Guadalupe)",
+    "lat": 30.288562,
+    "lng": -97.741684,
+    "category": "Food",
+    "tags": [
+      "Fast Food"
+    ],
+    "description": "Build-your-own Mediterranean bowls on the Drag, and one of the better options if you want something that isn't fried. Fast line!"
+  },
+  {
+    "id": "chick-fil-a-mlk",
+    "name": "Chick-fil-A (MLK)",
+    "lat": 30.281719,
+    "lng": -97.743159,
+    "category": "Food",
+    "tags": [
+      "Fast Food"
+    ],
+    "description": "Chick-Fil-A, the default for every student on campus. Open far later and earlier than the campus locations, and closed Sundays like every Chick-fil-A. Love me a Grilled chicken with a frosted coffee."
+  },
+  {
+    "id": "chick-fil-a-sac",
+    "name": "Chick-fil-A (SAC)",
+    "lat": 30.284901,
+    "lng": -97.736779,
+    "category": "Food",
+    "tags": [
+      "Fast Food",
+      "Dine In Dollars"
+    ],
+    "description": "The Chick-fil-A on the ground floor of the Student Activity Center. Line is seriously long at noon but moves like a MACHINE. I have never seen a group so motivated at UT."
+  },
+  {
+    "id": "chick-fil-a-union",
+    "name": "Chick-fil-A (Texas Union)",
+    "lat": 30.28611,
+    "lng": -97.741269,
+    "category": "Food",
+    "tags": [
+      "Fast Food",
+      "Dine In Dollars"
+    ],
+    "description": "The campus location inside the Texas Union, who doesn’t love chick-fil-a, I wonder how some people eat it every day."
+  },
+  {
+    "id": "chipotle-guad",
+    "name": "Chipotle (Guadalupe)",
+    "lat": 30.285653,
+    "lng": -97.742039,
+    "category": "Food",
+    "tags": [
+      "Fast Food"
+    ],
+    "description": "The Drag location of Chipotle, directly across from the west edge of campus. Convenient more than remarkable, but it's open late and the line usually moves. The perfect power bowl, and don’t mind if they're out of rice and beans occasionally."
+  },
+  {
+    "id": "chun-yang-tea",
+    "name": "Chun Yang Tea",
+    "lat": 30.287994,
+    "lng": -97.745661,
+    "category": "Food",
+    "tags": [
+      "Sweet-Treats"
+    ],
+    "description": "Taiwanese tea chain on 24th in West Campus, I've heard nothing but rave reviews!"
+  },
+  {
+    "id": "clay-pit",
+    "name": "Clay Pit",
+    "lat": 30.278953,
+    "lng": -97.742416,
+    "category": "Food",
+    "tags": [
+      "Sit-Down Restaurant"
+    ],
+    "description": "Indian restaurant in a historic limestone building just south of campus, nicer than most student-budget spots. Good pick when family visits and you need somewhere to take them."
+  },
+  {
+    "id": "crown-and-anchor",
+    "name": "Crown & Anchor Pub",
+    "lat": 30.292501,
+    "lng": -97.735637,
+    "category": "Food",
+    "tags": [
+      "Sit-Down Restaurant"
+    ],
+    "description": "Long-running pub on San Jacinto with burgers, a patio, and games on every screen. Older and scruffier than the Drag spots, which is exactly why people like it!"
+  },
+  {
+    "id": "cvs-guadalupe",
+    "name": "CVS (Guadalupe)",
+    "lat": 30.287887,
+    "lng": -97.741967,
+    "category": "Food",
+    "tags": [
+      "Convenience / Grocery",
+      "24-Hour"
+    ],
+    "description": "Open around the clock on the Drag, with a pharmacy plus snacks and basics. The 24-hour pharmacy is the useful part when nothing else nearby is open. You should have this place down, you never know when you'll need something QUICK."
+  },
+  {
+    "id": "cypress-bend-cafe",
+    "name": "Cypress Bend Café",
+    "lat": 30.282907,
+    "lng": -97.734486,
+    "category": "Food",
+    "tags": [
+      "Fast Food",
+      "Dine In Dollars"
+    ],
+    "description": "Café and small market on the ground floor of San Jacinto Residence Hall, with hot food, coffee, and grab-and-go groceries."
+  },
+  {
+    "id": "dobie-twenty21",
+    "name": "Dobie Twenty21",
+    "lat": 30.283323,
+    "lng": -97.741161,
+    "category": "Food",
+    "tags": [
+      "Convenience / Grocery"
+    ],
+    "description": "The tower at 21st and Guadalupe with a small food court and an attached Target on the ground floor. Useful mainly as a one-stop for groceries plus a quick meal!"
+  },
+  {
+    "id": "epoch-coffee",
+    "name": "Epoch Coffee (North Loop)",
+    "lat": 30.318604,
+    "lng": -97.72454,
+    "category": "Food",
+    "tags": [
+      "Coffee",
+      "24-Hour"
+    ],
+    "description": "Round-the-clock coffee shop with big indoor and patio seating, popular for all-nighters. Roughly three miles north of campus, but well worth the drive or bike!"
+  },
+  {
+    "id": "fricanos-deli",
+    "name": "Fricano's Deli",
+    "lat": 30.288207,
+    "lng": -97.742866,
+    "category": "Food",
+    "tags": [
+      "Sit-Down Restaurant"
+    ],
+    "description": "Small deli on Nueces in the middle of West Campus doing large, well-built sandwiches, so tasty. Seating is tight and the lunch rush is no joke!"
+  },
+  {
+    "id": "fuzzys-guad",
+    "name": "Fuzzy's Taco Shop (Guadalupe)",
+    "lat": 30.289795,
+    "lng": -97.741591,
+    "category": "Food",
+    "tags": [
+      "Fast Food"
+    ],
+    "description": "Tex-Mex counter on the Drag known more for cheap drink specials than for the tacos. Divisive from what I've heard, some swear by it, others not so much."
+  },
+  {
+    "id": "halal-bros",
+    "name": "Halal Bros",
+    "lat": 30.292532,
+    "lng": -97.741646,
+    "category": "Food",
+    "tags": [
+      "Fast Food"
+    ],
+    "description": "Platters of gyro or chicken over rice, cheap and fast, right on the Drag. The white sauce is the whole point and they'll give you as much as you ask for, classic."
+  },
+  {
+    "id": "hookem-hut-union",
+    "name": "Hook 'em Hut (Texas Union)",
+    "lat": 30.286661,
+    "lng": -97.741164,
+    "category": "Food",
+    "tags": [
+      "Convenience / Grocery",
+      "Dine In Dollars"
+    ],
+    "description": "Mini convenience store in the Texas Union for drinks, snacks, and quick essentials."
+  },
+  {
+    "id": "hookem-hut-wcp",
+    "name": "Hook 'em Hut (WCP)",
+    "lat": 30.28486,
+    "lng": -97.736666,
+    "category": "Food",
+    "tags": [
+      "Convenience / Grocery",
+      "Dine In Dollars"
+    ],
+    "description": "Grab-and-go kiosk in the Student Activity Center with drinks, snacks, and packaged meals."
+  },
+  {
+    "id": "in-n-out-guad",
+    "name": "In-N-Out Burger (Guadalupe)",
+    "lat": 30.292206,
+    "lng": -97.741628,
+    "category": "Food",
+    "tags": [
+      "Fast Food"
+    ],
+    "description": "Burgers, fries, and a menu you can read in ten seconds, open past midnight every night. I'll never forget A TA telling me \" Hey, I'm here to help… If I wasn’t I could be getting paid 8 dollars more at In-N-Out\". Irrelevant to the point but a great food place none the less!"
+  },
+  {
+    "id": "j2-dining",
+    "name": "J2 Dining",
+    "lat": 30.282826,
+    "lng": -97.736895,
+    "category": "Food",
+    "tags": [
+      "Dining Hall",
+      "Dine In Dollars"
+    ],
+    "description": "All-you-care-to-eat dining hall in Jester, and the biggest on campus by a wide margin!"
+  },
+  {
+    "id": "jcl",
+    "name": "Jester City Limits",
+    "lat": 30.282754,
+    "lng": -97.736748,
+    "category": "Food",
+    "tags": [
+      "Fast Food",
+      "Dine In Dollars"
+    ],
+    "description": "Food-court-style counter in Jester with a rotating hot line, grab-and-go, and snacks. It is my personal favorite, I swear I could eat those sandwiches every single day and be happy."
+  },
+  {
+    "id": "jesta-pizza",
+    "name": "Jesta' Pizza",
+    "lat": 30.282852,
+    "lng": -97.736583,
+    "category": "Food",
+    "tags": [
+      "Fast Food",
+      "Dine In Dollars"
+    ],
+    "description": "Pizza by the slice or whole pie inside Jester, ordered from a touchscreen. Open until midnight on weekdays during term. Classic!"
+  },
+  {
+    "id": "jester-city-market",
+    "name": "Jester City Market",
+    "lat": 30.282765,
+    "lng": -97.736972,
+    "category": "Food",
+    "tags": [
+      "Convenience / Grocery",
+      "Dine In Dollars"
+    ],
+    "description": "Convenience store in Jester with snacks, drinks, and household basics. Pricey at face value, which is why nearly everyone pays with Dine In Dollars."
+  },
+  {
+    "id": "jester-java",
+    "name": "Jester Java",
+    "lat": 30.282959,
+    "lng": -97.736937,
+    "category": "Food",
+    "tags": [
+      "Coffee",
+      "Dine In Dollars"
+    ],
+    "description": "Coffee counter inside Jester Center, doing espresso drinks and a few snacks. Gets the job done is about all I can say!"
+  },
+  {
+    "id": "jimmy-johns-mlk",
+    "name": "Jimmy John's (MLK)",
+    "lat": 30.282141,
+    "lng": -97.744013,
+    "category": "Food",
+    "tags": [
+      "Fast Food"
+    ],
+    "description": "Sandwich shop just off the southwest corner of campus, open till 10pm. Delivery is the main draw, though reviewers dispute how fast 'freaky fast!' actually is."
+  },
+  {
+    "id": "juiceland-guad",
+    "name": "JuiceLand (Guadalupe)",
+    "lat": 30.29515,
+    "lng": -97.743145,
+    "category": "Food",
+    "tags": [
+      "Fast Food"
+    ],
+    "description": "Austin smoothie and juice chain at the north end of the Drag, all vegetarian and mostly vegan!"
+  },
+  {
+    "id": "kerbey-lane-univ",
+    "name": "Kerbey Lane Cafe (University)",
+    "lat": 30.291221,
+    "lng": -97.741532,
+    "category": "Food",
+    "tags": [
+      "Sit-Down Restaurant"
+    ],
+    "description": "Sit-down Austin diner doing pancakes and queso at basically any hour you'd want them. Even while writing this I'm getting hungry."
+  },
+  {
+    "id": "kins-dining",
+    "name": "Kins Dining",
+    "lat": 30.290329,
+    "lng": -97.739824,
+    "category": "Food",
+    "tags": [
+      "Dining Hall",
+      "Dine In Dollars"
+    ],
+    "description": "Kinsolving's dining hall on the north side, generally less of a crush than Jester and with a better reputation for vegetarian options. Personally I've heard people say it’s the Premium Dining Hall."
+  },
+  {
+    "id": "kins-market",
+    "name": "Kin's Market",
+    "lat": 30.290398,
+    "lng": -97.73988,
+    "category": "Food",
+    "tags": [
+      "Convenience / Grocery",
+      "Dine In Dollars"
+    ],
+    "description": "Convenience store attached to Kinsolving, covering snacks and basics for the north-campus halls. Same thing as Jester City Market, slightly overpriced unless you're spending Dine In Dollars."
+  },
+  {
+    "id": "la-fonda",
+    "name": "La Fonda",
+    "lat": 30.2834,
+    "lng": -97.7365,
+    "category": "Food",
+    "tags": [
+      "Food Truck",
+      "Dine In Dollars"
+    ],
+    "description": "UT-run food truck parked at 21st and Speedway doing breakfast tacos, chilaquiles, and tortas. One of the only campus spots where Dine In Dollars gets you real breakfast tacos!!"
+  },
+  {
+    "id": "littlefield-patio-cafe",
+    "name": "Littlefield Patio Cafe",
+    "lat": 30.289202,
+    "lng": -97.739471,
+    "category": "Food",
+    "tags": [
+      "Fast Food",
+      "Coffee",
+      "Dine In Dollars"
+    ],
+    "description": "Counter-service café next to Littlefield Hall with breakfast tacos, coffee, and a patio."
+  },
+  {
+    "id": "longhorn-coffee-co",
+    "name": "Longhorn Coffee Co.",
+    "lat": 30.284868,
+    "lng": -97.736721,
+    "category": "Food",
+    "tags": [
+      "Coffee",
+      "Dine In Dollars"
+    ],
+    "description": "Coffee shop in the WCP Student Activity Center serving Starbucks drinks plus grab-and-go food. Closest real coffee to the GDC!"
+  },
+  {
+    "id": "madam-mams-26th",
+    "name": "Madam Mam's (26th St)",
+    "lat": 30.290671,
+    "lng": -97.742398,
+    "category": "Food",
+    "tags": [
+      "Sit-Down Restaurant"
+    ],
+    "description": "Thai place a block off Guadalupe that's been feeding UT students for years. Lunch combos are the move if you're trying to keep it cheap! Its so tasty!"
+  },
+  {
+    "id": "medici-guad",
+    "name": "Medici Roasting (Guadalupe)",
+    "lat": 30.285537,
+    "lng": -97.742003,
+    "category": "Food",
+    "tags": [
+      "Coffee",
+      "Study Lounge"
+    ],
+    "description": "Coffee shop on the Drag with an upstairs that's basically a second library during midterms. Pastries go half off late in day, that I would recommend!"
+  },
+  {
+    "id": "noodle-lab",
+    "name": "Noodle Lab",
+    "lat": 30.286661,
+    "lng": -97.741164,
+    "category": "Food",
+    "tags": [
+      "Fast Food",
+      "Dine In Dollars"
+    ],
+    "description": "Self-serve ramen bar in the Texas Union where you build your own bowl from the broth up. Newer addition and one of the better campus options if you want something hot and cheap."
+  },
+  {
+    "id": "one-two-three-sushi",
+    "name": "One Two Three Sushi",
+    "lat": 30.284868,
+    "lng": -97.736721,
+    "category": "Food",
+    "tags": [
+      "Fast Food",
+      "Dine In Dollars"
+    ],
+    "description": "Made-to-order sushi and Japanese specials in the WCP Student Activity Center. You pick the roll and they build it in front of you."
+  },
+  {
+    "id": "p-terrys-mlk",
+    "name": "P. Terry's Burger Stand (MLK)",
+    "lat": 30.281847,
+    "lng": -97.743569,
+    "category": "Food",
+    "tags": [
+      "Fast Food",
+      "24-Hour"
+    ],
+    "description": "THE Burger place, no matter what anyone says P.Terry's is THE burger spot, and out of all of the fast food, this is best! Apologies for the unprofessionalism, but try it and you'll understand."
+  },
+  {
+    "id": "panda-express-union",
+    "name": "Panda Express (Texas Union)",
+    "lat": 30.286481,
+    "lng": -97.741148,
+    "category": "Food",
+    "tags": [
+      "Fast Food",
+      "Dine In Dollars"
+    ],
+    "description": "Orange chicken and fried rice in the Union's lower level. Closes before late dinner so don’t forget!"
+  },
+  {
+    "id": "playa-bowls-mlk",
+    "name": "Playa Bowls (MLK)",
+    "lat": 30.282297,
+    "lng": -97.74332,
+    "category": "Food",
+    "tags": [
+      "Fast Food",
+      "Sweet-Treats"
+    ],
+    "description": "Açaí and smoothie bowls just off the southwest corner of campus!"
+  },
+  {
+    "id": "pluckers-rio-grande",
+    "name": "Pluckers Wing Bar (Rio Grande)",
+    "lat": 30.286293,
+    "lng": -97.745044,
+    "category": "Food",
+    "tags": [
+      "Sit-Down Restaurant"
+    ],
+    "description": "Wings, TVs, and a room full of students on any night there's a game on. Late close makes it one of the few sit-down options after 10pm near campus. Great \"College\" vibe."
+  },
+  {
+    "id": "prufrocks-pcl",
+    "name": "Prufrock's (PCL)",
+    "lat": 30.282773,
+    "lng": -97.738194,
+    "category": "Food",
+    "tags": [
+      "Coffee",
+      "Dine In Dollars"
+    ],
+    "description": "Coffee counter on the ground floor of the PCL, doing drinks, pastries, and grab-and-go. Exists almost entirely to keep the floors above it awake… it would help if it was open more often..."
+  },
+  {
+    "id": "rio-grande-truck-lot",
+    "name": "Rio Grande Food Truck Lot",
+    "lat": 30.29053,
+    "lng": -97.74467,
+    "category": "Food",
+    "tags": [
+      "Food Truck"
+    ],
+    "description": "A cluster of trucks on Rio Grande in the middle of West Campus, with a rotating mix of cuisines and picnic seating. Mostly an evening thing — a lot of the trucks don't fire up until after 5pm. I've had some of the best sweet treats and gyros here."
+  },
+  {
+    "id": "roppolos-guad",
+    "name": "Roppolo's Pizzeria (West Campus)",
+    "lat": 30.291023,
+    "lng": -97.741564,
+    "category": "Food",
+    "tags": [
+      "Fast Food",
+      "Sit-Down Restaurant"
+    ],
+    "description": "Enormous foldable New York-style slices on the Drag, sold by the slice at the counter or ordered whole at a kiosk. The original is the 6th Street location downtown. This is MY favorite pizza, I could eat that 5-6 dollar pizza and a drink every single day."
+  },
+  {
+    "id": "sabor-tacos-y-mas",
+    "name": "Sabor Tacos y Más",
+    "lat": 30.284868,
+    "lng": -97.736721,
+    "category": "Food",
+    "tags": [
+      "Fast Food",
+      "Dine In Dollars"
+    ],
+    "description": "Build-your-own Tex-Mex counter in the SAC off Speedway — tacos, bowls, and sides. Fast line and one of the cheaper hot lunches on campus!"
+  },
+  {
+    "id": "seven-eleven-guad",
+    "name": "7-Eleven (Guadalupe)",
+    "lat": 30.29074,
+    "lng": -97.741819,
+    "category": "Food",
+    "tags": [
+      "Convenience / Grocery",
+      "24-Hour"
+    ],
+    "description": "Open 24 hours on the north end of the Drag, with the usual snacks, drinks, and hot case. One of the few things near West Campus guaranteed to be open at 4am."
+  },
+  {
+    "id": "shake-smart-union",
+    "name": "Shake Smart",
+    "lat": 30.286661,
+    "lng": -97.741164,
+    "category": "Food",
+    "tags": [
+      "Fast Food",
+      "Coffee",
+      "Dine In Dollars"
+    ],
+    "description": "Protein shakes, cold brew, and light bites in the Texas Union. The go-to for people coming off a Gregory workout. They have a lot of promos for free drinks!"
+  },
+  {
+    "id": "snarfs-medical-arts",
+    "name": "Snarf's Sandwiches",
+    "lat": 30.28837,
+    "lng": -97.728639,
+    "category": "Food",
+    "tags": [
+      "Sit-Down Restaurant"
+    ],
+    "description": "Toasted sandwich shop over on Medical Arts near Dell Med, on the far east side. Worth the walk if you're already on that end of campus!"
+  },
+  {
+    "id": "suns-out-buns-out",
+    "name": "Suns Out Buns Out",
+    "lat": 30.29054,
+    "lng": -97.744689,
+    "category": "Food",
+    "tags": [
+      "Food Truck"
+    ],
+    "description": "Late-night burger trailer in the Rio Grande lot, open until the small hours on weekends. One of the better burgers in West Campus if you catch it running."
+  },
+  {
+    "id": "taco-bell-cantina",
+    "name": "Taco Bell Cantina (Guadalupe)",
+    "lat": 30.28282,
+    "lng": -97.742333,
+    "category": "Food",
+    "tags": [
+      "Fast Food"
+    ],
+    "description": "The Cantina-format Taco Bell at the south end of the Drag, with outlets at the tables. Its Taco Bell, not much to say."
+  },
+  {
+    "id": "tapioca-house",
+    "name": "Tapioca House",
+    "lat": 30.282417,
+    "lng": -97.742254,
+    "category": "Food",
+    "tags": [
+      "Sweet-Treats",
+      "Fast Food"
+    ],
+    "description": "Boba shop at the south end of Guadalupe that also does a full menu of noodles and rice. Board games on the shelf and open till 11 every night!"
+  },
+  {
+    "id": "target-guadalupe",
+    "name": "Target (Guadalupe)",
+    "lat": 30.283663,
+    "lng": -97.741713,
+    "category": "Food",
+    "tags": [
+      "Convenience / Grocery"
+    ],
+    "description": "THE go-to grocery store for every longhorn, even if it is a bit pricy!"
+  },
+  {
+    "id": "tiffs-treats-nueces",
+    "name": "Tiff's Treats (Nueces)",
+    "lat": 30.281869,
+    "lng": -97.744107,
+    "category": "Food",
+    "tags": [
+      "Sweet-Treats"
+    ],
+    "description": "Warm cookies delivered or picked up, originally started by two UT students. Open till midnight, which covers most late-night sugar emergencies."
+  },
+  {
+    "id": "torchys-guad",
+    "name": "Torchy's Tacos (Guadalupe)",
+    "lat": 30.293724,
+    "lng": -97.741713,
+    "category": "Food",
+    "tags": [
+      "Sit-Down Restaurant",
+      "Fast Food"
+    ],
+    "description": "Austin taco institution at the north end of the Drag, with a menu of overstuffed tacos and a queso people get weirdly passionate about."
+  },
+  {
+    "id": "tower-burgers-union",
+    "name": "Tower Burgers and Fries",
+    "lat": 30.286661,
+    "lng": -97.741164,
+    "category": "Food",
+    "tags": [
+      "Fast Food",
+      "Dine In Dollars"
+    ],
+    "description": "Burger counter in the Texas Union's food area, doing griddle burgers and fries to order."
+  },
+  {
+    "id": "union-coffee-house",
+    "name": "Union Coffee House",
+    "lat": 30.286007,
+    "lng": -97.741177,
+    "category": "Food",
+    "tags": [
+      "Coffee",
+      "Dine In Dollars"
+    ],
+    "description": "Starbucks-style coffee counter in the Texas Union. Handy for its location more than anything else — maybe not for the service, from what I've heard."
+  },
+  {
+    "id": "up-and-atom",
+    "name": "Up and Atom",
+    "lat": 30.286471,
+    "lng": -97.737709,
+    "category": "Food",
+    "tags": [
+      "Coffee",
+      "Dine In Dollars"
+    ],
+    "description": "Coffee shop tucked inside Welch Hall serving Ruta Maya coffee and quick bites. Genuinely handy if you have back-to-back chemistry classes and no time to cross campus."
+  },
+  {
+    "id": "via-313-guad",
+    "name": "Via 313 Pizza (Guadalupe)",
+    "lat": 30.297874,
+    "lng": -97.74147,
+    "category": "Food",
+    "tags": [
+      "Sit-Down Restaurant"
+    ],
+    "description": "Detroit-style pan pizza with a thick, chewy crust and caramelized cheese edges, at the north end of Guadalupe. Sit-down with a full bar, so it's more of a plan than a grab-and-go."
+  },
+  {
+    "id": "whataburger-guad",
+    "name": "Whataburger (Guadalupe)",
+    "lat": 30.293458,
+    "lng": -97.742172,
+    "category": "Food",
+    "tags": [
+      "Fast Food",
+      "24-Hour"
+    ],
+    "description": "Open around the clock at the north end of the Drag, which makes it the default 3am stop for half of West Campus. Honey butter chicken biscuit in the morning, everything else the rest of the time."
+  },
+  {
+    "id": "which-wich-guad",
+    "name": "Which Wich (Guadalupe)",
+    "lat": 30.287333,
+    "lng": -97.74181,
+    "category": "Food",
+    "tags": [
+      "Fast Food"
+    ],
+    "description": "Build-your-own sandwiches where you mark up a paper bag with what you want. Generous fillings for the price!"
+  },
+  {
+    "id": "wingstop-guad",
+    "name": "Wingstop (Guadalupe)",
+    "lat": 30.286893,
+    "lng": -97.741932,
+    "category": "Food",
+    "tags": [
+      "Fast Food"
+    ],
+    "description": "Wings and fries on the Drag, open past midnight most nights. Order ahead if you're in a hurry — the counter backs up badly at peak."
+  },
+  {
+    "id": "battle-hall-reading-room",
+    "name": "Battle Hall Reading Room",
+    "lat": 30.285417,
+    "lng": -97.740314,
+    "category": "Study Spots",
+    "tags": [
+      "Libraries",
+      "Study Lounge"
+    ],
+    "description": "The Architecture and Planning Library's main reading room, with high ceilings, tall windows, and heavy wooden tables. Probably the prettiest room on campus to open a laptop in, and quiet almost by default."
+  },
+  {
+    "id": "benson-collection",
+    "name": "Benson Latin American Collection",
+    "lat": 30.28378,
+    "lng": -97.7293,
+    "category": "Study Spots",
+    "tags": [
+      "Libraries",
+      "Study Lounge"
+    ],
+    "description": "Major Latin American research collection on Red River, well away from the noise of central campus. Reading room is calm and the librarians are unusually helpful."
+  },
+  {
+    "id": "eer-atrium",
+    "name": "EER Study Floors",
+    "lat": 30.288258,
+    "lng": -97.735345,
+    "category": "Study Spots",
+    "tags": [
+      "Study Lounge"
+    ],
+    "description": "The upper floors of the Engineering Education and Research Center have open study areas with real desks, good chairs, and enough outlets to go around. One of the newest and most comfortable places to work on campus."
+  },
+  {
+    "id": "fine-arts-library",
+    "name": "Fine Arts Library",
+    "lat": 30.285888,
+    "lng": -97.731749,
+    "category": "Study Spots",
+    "tags": [
+      "Libraries",
+      "Study Lounge"
+    ],
+    "description": "East-side library that also houses the Foundry makerspace, which has 3D printers, a laser cutter, and VR rigs, all free to students. I learned to sew there! Underused compared to the PCL, which makes it a good place to actually get a table."
+  },
+  {
+    "id": "gdc-atrium",
+    "name": "GDC Atrium",
+    "lat": 30.286271,
+    "lng": -97.736505,
+    "category": "Study Spots",
+    "tags": [
+      "Study Lounge",
+      "Computer Lab"
+    ],
+    "description": "The glass-roofed space joining the two GDC towers, full of couches and whiteboards. Effectively the CS department's living room, and busy at all hours during project season."
+  },
+  {
+    "id": "jester-24hr-lounge",
+    "name": "Jester 24-Hour Study Lounge",
+    "lat": 30.282879,
+    "lng": -97.736812,
+    "category": "Study Spots",
+    "tags": [
+      "24-Hour",
+      "Study Lounge"
+    ],
+    "description": "A quiet lounge across from the Jester West desk that stays open around the clock. Great study spot."
+  },
+  {
+    "id": "life-science-library",
+    "name": "Life Science Library",
+    "lat": 30.286267,
+    "lng": -97.739107,
+    "category": "Study Spots",
+    "tags": [
+      "Libraries",
+      "Study Lounge"
+    ],
+    "description": "Tucked inside the Main Building under the Tower, with vaulted ceilings and long reading tables that feel like a movie set. I wandered onto the president's floor looking for it, so go in with a bit more care than I did and you'll find it."
+  },
+  {
+    "id": "mallet-chemistry-library",
+    "name": "Mallet Chemistry Library",
+    "lat": 30.286644,
+    "lng": -97.737808,
+    "category": "Study Spots",
+    "tags": [
+      "Libraries",
+      "Study Lounge"
+    ],
+    "description": "Branch library on the second floor of Welch Hall with large private desks and good task lighting. Quiet and rarely full, even when the PCL is packed."
+  },
+  {
+    "id": "sac",
+    "name": "William C. Powers, Jr. Student Activity Center",
+    "lat": 30.284868,
+    "lng": -97.736721,
+    "category": "Study Spots",
+    "tags": [
+      "Study Lounge",
+      "Computer Lab"
+    ],
+    "description": "The SAC is the default place to land between classes: open seating, a dedicated study lounge, outlets on most walls, and a food court downstairs. It gets LOUD so bring some headphones."
+  },
+  {
+    "id": "speedway-mall",
+    "name": "Speedway Mall",
+    "lat": 30.2865,
+    "lng": -97.7368,
+    "category": "Study Spots",
+    "tags": [
+      "Outdoor Spots"
+    ],
+    "description": "The pedestrian spine running north–south through the middle of campus, closed to cars and lined with benches and shade. The main artery you'll walk between almost any two classes."
+  },
+  {
+    "id": "tarlton-law-library",
+    "name": "Tarlton Law Library",
+    "lat": 30.288599,
+    "lng": -97.731006,
+    "category": "Study Spots",
+    "tags": [
+      "Libraries",
+      "Study Lounge"
+    ],
+    "description": "The law school's library in Townes Hall, open to all UT students. Serious study atmosphere."
+  },
+  {
+    "id": "turtle-pond-lawn",
+    "name": "Turtle Pond Lawn",
+    "lat": 30.286816,
+    "lng": -97.739446,
+    "category": "Study Spots",
+    "tags": [
+      "Outdoor Spots",
+      "Garden"
+    ],
+    "description": "Benches and shade right behind the Tower, next to the pond. Good for reading when the weather cooperates, which in Austin means roughly October through April. Come on, everyone knows THE Turtle Pond."
+  },
+  {
+    "id": "union-presidential-lounge",
+    "name": "Texas Union — Presidential Lounge",
+    "lat": 30.286661,
+    "lng": -97.741164,
+    "category": "Study Spots",
+    "tags": [
+      "Study Lounge"
+    ],
+    "description": "Upstairs in the Texas Union, with armchairs, wood paneling, and a fireplace that makes it the best cold-weather study room on campus. Much calmer than the food court two floors down."
+  },
+  {
+    "id": "walter-geology-library",
+    "name": "Walter Geology Library",
+    "lat": 30.285902,
+    "lng": -97.735715,
+    "category": "Study Spots",
+    "tags": [
+      "Libraries",
+      "Study Lounge"
+    ],
+    "description": "Small library inside the Jackson Geological Sciences Building with plenty of seating and mineral displays around the room, pretty views."
+  },
+  {
+    "id": "west-mall",
+    "name": "West Mall",
+    "lat": 30.2856,
+    "lng": -97.7408,
+    "category": "Study Spots",
+    "tags": [
+      "Outdoor Spots"
+    ],
+    "description": "The plaza between the Union and the Main Building, and the traditional spot for tabling, protests, and student org recruiting."
+  },
+  {
+    "id": "bass-concert-hall",
+    "name": "Bass Concert Hall",
+    "lat": 30.286392,
+    "lng": -97.7312,
+    "category": "Points of Interest",
+    "tags": [
+      "Performing Arts",
+      "Event Venue"
+    ],
+    "description": "The big performing arts venue on the east side, hosting touring Broadway shows, orchestras, and film-with-live-score nights. Student tickets are usually far cheaper than general admission. (Join the Bass Pass!)"
+  },
+  {
+    "id": "bates-recital-hall",
+    "name": "Bates Recital Hall",
+    "lat": 30.287006,
+    "lng": -97.730723,
+    "category": "Points of Interest",
+    "tags": [
+      "Performing Arts",
+      "Event Venue"
+    ],
+    "description": "The Butler School of Music's main recital hall, complete with a pipe organ. Faculty and student recitals run constantly, and are very high quality!"
+  },
+  {
+    "id": "battle-oaks",
+    "name": "Battle Oaks",
+    "lat": 30.2865,
+    "lng": -97.7409,
+    "category": "Points of Interest",
+    "tags": [
+      "Landmarks",
+      "Outdoor Spots"
+    ],
+    "description": "Three live oaks at the northwest corner of the original Forty Acres, said to predate the university and saved from being cut down more than once."
+  },
+  {
+    "id": "blanton",
+    "name": "Blanton Museum of Art",
+    "lat": 30.280811,
+    "lng": -97.737684,
+    "category": "Points of Interest",
+    "tags": [
+      "Museum",
+      "Gotta See It"
+    ],
+    "description": "UT's art museum on the south edge of campus, big enough to be worth a trip but small enough to finish in an afternoon. Has art that I could gawk at for hours!"
+  },
+  {
+    "id": "cactus-cafe",
+    "name": "Cactus Cafe",
+    "lat": 30.286149,
+    "lng": -97.741257,
+    "category": "Points of Interest",
+    "tags": [
+      "Event Venue",
+      "Performing Arts"
+    ],
+    "description": "Tiny legendary listening room inside the Texas Union that's hosted Texas songwriters for over fifty years. Open mic on Tuesday's!"
+  },
+  {
+    "id": "disch-falk-field",
+    "name": "UFCU Disch-Falk Field",
+    "lat": 30.279958,
+    "lng": -97.726161,
+    "category": "Points of Interest",
+    "tags": [
+      "Sports",
+      "Event Venue"
+    ],
+    "description": "Longhorn baseball's home field east of I-35, and one of the best college ballparks in the country. Tickets are cheap and the atmosphere in spring is genuinely worth the walk!"
+  },
+  {
+    "id": "dkr-stadium",
+    "name": "Darrell K Royal–Texas Memorial Stadium",
+    "lat": 30.28354,
+    "lng": -97.732519,
+    "category": "Points of Interest",
+    "tags": [
+      "Sports",
+      "Event Venue",
+      "Landmarks"
+    ],
+    "description": "THE football stadium, and on home game Saturdays the whole east side of campus reorganizes itself around it. Worth knowing where it is even if you never go in, because game day closes streets."
+  },
+  {
+    "id": "harry-ransom-center",
+    "name": "Harry Ransom Center",
+    "lat": 30.284332,
+    "lng": -97.741221,
+    "category": "Points of Interest",
+    "tags": [
+      "Museum",
+      "Gotta See It"
+    ],
+    "description": "A humanities archive with rotating exhibitions and a Gutenberg Bible sitting in the lobby, free to walk in and see. The etched glass panels on the exterior are worth a look on their own. Make a research account to be able to view other global prized works!"
+  },
+  {
+    "id": "hogg-auditorium",
+    "name": "Hogg Memorial Auditorium",
+    "lat": 30.286901,
+    "lng": -97.74062,
+    "category": "Points of Interest",
+    "tags": [
+      "Event Venue",
+      "Performing Arts"
+    ],
+    "description": "A recently renovated auditorium on Whitis with excellent acoustics and an intimate feel. Hosts touring musicians, lectures, and student performances."
+  },
+  {
+    "id": "jamail-swim-center",
+    "name": "Lee & Joe Jamail Texas Swimming Center",
+    "lat": 30.279869,
+    "lng": -97.733435,
+    "category": "Points of Interest",
+    "tags": [
+      "Sports",
+      "Event Venue"
+    ],
+    "description": "The swimming and diving facility on Red River, one of the most decorated programs at UT!"
+  },
+  {
+    "id": "lbj-library",
+    "name": "LBJ Presidential Library",
+    "lat": 30.285809,
+    "lng": -97.729182,
+    "category": "Points of Interest",
+    "tags": [
+      "Museum",
+      "Landmarks"
+    ],
+    "description": "Presidential library on the east side of campus, with a reconstructed Oval Office on the top floor and a lot of 1960s history laid out well. Students generally get in free with an ID. Great tour!"
+  },
+  {
+    "id": "littlefield-fountain",
+    "name": "Littlefield Fountain",
+    "lat": 30.28386,
+    "lng": -97.739601,
+    "category": "Points of Interest",
+    "tags": [
+      "Landmarks",
+      "Gotta See It"
+    ],
+    "description": "The bronze fountain at the foot of the South Mall, and the spot everyone takes graduation photos in front of. It's a war memorial, which a lot of students never really understand."
+  },
+  {
+    "id": "littlefield-home",
+    "name": "Littlefield Home",
+    "lat": 30.288084,
+    "lng": -97.740765,
+    "category": "Points of Interest",
+    "tags": [
+      "Landmarks",
+      "Gotta See It"
+    ],
+    "description": "An 1890s Victorian mansion sitting incongruously in the middle of campus, donated to the university and still used for events. Crazy!"
+  },
+  {
+    "id": "mccombs-field",
+    "name": "Red & Charline McCombs Field",
+    "lat": 30.280703,
+    "lng": -97.724867,
+    "category": "Points of Interest",
+    "tags": [
+      "Sports",
+      "Event Venue"
+    ],
+    "description": "Texas softball's stadium, compact enough that every seat is close to the action. The team draws big crowds and games are among the cheapest tickets on campus!"
+  },
+  {
+    "id": "mccullough-theatre",
+    "name": "McCullough Theatre",
+    "lat": 30.286721,
+    "lng": -97.730634,
+    "category": "Points of Interest",
+    "tags": [
+      "Performing Arts",
+      "Event Venue"
+    ],
+    "description": "Mid-sized theatre in the east-side arts complex used for opera, dance, and touring productions. Small enough that there's no bad seat! Great shows as well!"
+  },
+  {
+    "id": "moody-center",
+    "name": "Moody Center",
+    "lat": 30.28097,
+    "lng": -97.730662,
+    "category": "Points of Interest",
+    "tags": [
+      "Event Venue",
+      "Sports",
+      "Landmarks"
+    ],
+    "description": "The arena on the east side that hosts basketball and touring concerts!"
+  },
+  {
+    "id": "myers-stadium",
+    "name": "Mike A. Myers Stadium",
+    "lat": 30.282577,
+    "lng": -97.730058,
+    "category": "Points of Interest",
+    "tags": [
+      "Sports",
+      "Event Venue"
+    ],
+    "description": "Track and field plus soccer, and the host of the Texas Relays every spring."
+  },
+  {
+    "id": "santa-rita-no-1",
+    "name": "Santa Rita No. 1",
+    "lat": 30.279993,
+    "lng": -97.734726,
+    "category": "Points of Interest",
+    "tags": [
+      "Landmarks",
+      "Gotta See It"
+    ],
+    "description": "The actual oil rig that struck on university land in 1923 and funded much of the UT system, parked on the corner of MLK and San Jacinto. A very important landmark Indeed!"
+  },
+  {
+    "id": "texas-science-museum",
+    "name": "Texas Science & Natural History Museum",
+    "lat": 30.287033,
+    "lng": -97.732353,
+    "category": "Points of Interest",
+    "tags": [
+      "Museum"
+    ],
+    "description": "Four floors of fossils, Texas geology, and a good bat exhibit, on the east side near the stadium!"
+  },
+  {
+    "id": "texas-tennis-center",
+    "name": "Texas Tennis Center",
+    "lat": 30.281297,
+    "lng": -97.725915,
+    "category": "Points of Interest",
+    "tags": [
+      "Sports"
+    ],
+    "description": "Twelve outdoor courts with covered spectator seating, home to the men's and women's tennis teams. Free to watch most matches!"
+  },
+  {
+    "id": "turtle-pond",
+    "name": "UT Turtle Pond",
+    "lat": 30.286816,
+    "lng": -97.739446,
+    "category": "Points of Interest",
+    "tags": [
+      "Gotta See It",
+      "Outdoor Spots",
+      "Garden"
+    ],
+    "description": "A small pond behind the Tower with a resident turtle population that sunbathes on the rocks all afternoon. Built in the 1930s as botanical ponds and now is one of the most beloved and spoken of places on campus!"
+  },
+  {
+    "id": "university-co-op",
+    "name": "University Co-op",
+    "lat": 30.286164,
+    "lng": -97.74192,
+    "category": "Points of Interest",
+    "tags": [
+      "Bookstore"
+    ],
+    "description": "Three floors of Longhorn gear across Guadalupe from campus, plus textbooks and supplies. Pricey, but the discount section upstairs is worth checking before you pay full price anywhere!"
+  },
+  {
+    "id": "ut-tower-observation-deck",
+    "name": "UT Tower Observation Deck",
+    "lat": 30.286017,
+    "lng": -97.739386,
+    "category": "Points of Interest",
+    "tags": [
+      "Gotta See It",
+      "Landmarks"
+    ],
+    "description": "The top of the Tower is open for guided visits and gives you the best view of Austin you'll get without paying for one. Tickets are limited and need to be booked ahead, so it's not a walk-up."
+  },
+  {
+    "id": "visual-arts-center",
+    "name": "Visual Arts Center",
+    "lat": 30.286256,
+    "lng": -97.732996,
+    "category": "Points of Interest",
+    "tags": [
+      "Museum",
+      "Gotta See It"
+    ],
+    "description": "Free gallery inside the Art Building showing student, faculty, and visiting artist work that rotates constantly."
+  },
+  {
+    "id": "wildflower-center",
+    "name": "Lady Bird Johnson Wildflower Center",
+    "lat": 30.185489,
+    "lng": -97.873265,
+    "category": "Points of Interest",
+    "tags": [
+      "Garden",
+      "Gotta See It"
+    ],
+    "description": "UT's botanical garden and native plant research center. Worth the Trip!"
+  }
+]
